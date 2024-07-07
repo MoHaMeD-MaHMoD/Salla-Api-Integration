@@ -1,0 +1,6 @@
+@SallaIntegration_HostAddress = http://localhost:5093
+
+GET {{SallaIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
